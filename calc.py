@@ -1,0 +1,8 @@
+Num1= float(imput("Enter first number"))
+Num2=float(input("Enter first number"))
+print("Sum:" ,Num1 + Num2)
+print("Product:",Num1 * Num2)
+print("difference:" ,Num1 - Num2)
+print("quotient:" ,Num1 / Num2)
+print("Base:" ,Num1 + Num2)
+print("Modulo:" ,Num1 + Num2)
